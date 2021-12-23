@@ -1,4 +1,4 @@
-# WorldSuicideAndHappinessAnalysis
+# World Suicide And Happiness Analysis
 
 Analyzing suicide rates worldwide. I will also compare the suicidal rates with the world happiness ratings. This is for educational and learning purposes.
 
