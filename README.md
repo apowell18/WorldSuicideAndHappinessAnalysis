@@ -1,5 +1,6 @@
 # WorldSuicideAndHappinessAnalysis
 
+Analyzing suicide rates worldwide. I will also compare the suicidal rates with the world happiness ratings. This is for educational and learning purposes.
 
 The link to the Tableau Visualization: https://public.tableau.com/shared/NNWWP4R9X?:display_count=n&:origin=viz_share_link
 
